@@ -357,8 +357,6 @@ i {
 }
 
 /*Big Circle Charles*/
-
-
 .big-button-red {
     color: white;
     font-size: 22px;
@@ -370,7 +368,6 @@ i {
     border: solid white 8px;
     background-color: #EB9D3A;
     }
-
 .big-button-yellow {
     color: white;
     font-size: 22px;
@@ -382,7 +379,6 @@ i {
     border: solid white 8px;
     background-color: #E6563B;
     }
-
 .big-button-green {
     color: white;
     font-size: 22px;
@@ -394,7 +390,6 @@ i {
     border: solid white 8px;
     background-color: #7CB06C;
     }
-
 .big-button-blue {
     color: white;
     font-size: 22px;
@@ -406,4 +401,41 @@ i {
     border: solid white 8px;
     background-color: #00ABA9;
     }
+    
+/* Small-Circle*/
 
+.sml-circle-orange {
+    height: 25px;
+    width: 25px;
+    font-family: 'Anton', sans-serif;
+    border-radius: 50%;
+    background-color: #EB9D3A;
+    
+}
+
+.sml-circle-yellow {
+    font-family: 'Anton', sans-serif;
+    height: 25px;
+    width: 25px;
+    margin-left: 4px;
+    border-radius: 50%;
+    background-color: #E6563B;
+}
+
+.sml-circle-green {
+    font-family: 'Anton', sans-serif;
+    height: 25px;
+    width: 25px;
+    margin-left: 4px;
+    border-radius: 50%;
+    background-color: #7CB06C;
+    }
+
+.sml-circle-blue {
+    font-family: 'Anton', sans-serif;
+    height: 25px;
+    width: 25px;
+    margin-left: 4px;
+    border-radius: 50%;
+    background-color: #00ABA9;
+    }
