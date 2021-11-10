@@ -439,3 +439,18 @@ i {
     border-radius: 50%;
     background-color: #00ABA9;
     }
+    
+  .aside-img {
+  
+  }
+  
+  .aside-p {
+       text-align: left;
+       margin-left: 10px;
+       font-weight: bold; font-size: 23px;     font-family: 'Anton', sans-serif
+  }
+  
+  .aside-div {
+      display: flex;
+      }
+ 
